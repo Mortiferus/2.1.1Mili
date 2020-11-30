@@ -4,4 +4,4 @@ public class Main {
         int bonusMiles = ticketPriceKpks / 20 / 100;
         System.out.println(bonusMiles);
     }
-}s
+}
